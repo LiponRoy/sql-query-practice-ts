@@ -5,3 +5,8 @@ export interface Customer {
     city?: string;
     age: number;
 }
+
+export interface IProduct {
+    name: string;
+    price: string;
+}
